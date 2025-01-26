@@ -3,4 +3,6 @@ Decode String - 3[ab]2[a[bc]]
 Kth Largest/Smallest Integer
 Longest Substring without repeating character - LeetCode
 Adding of numbers in linked list
-0/1 knapsack
+0/1 knapsack - DP
+Detect Cycle in Linked List
+Detect Starting Point in Linked List
