@@ -6,3 +6,4 @@ Adding of numbers in linked list
 0/1 knapsack - DP
 Detect Cycle in Linked List
 Detect Starting Point in Linked List
+check Isomorphic 
