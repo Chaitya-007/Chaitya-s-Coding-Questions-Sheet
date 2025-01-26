@@ -7,3 +7,4 @@ Adding of numbers in linked list
 Detect Cycle in Linked List
 Detect Starting Point in Linked List
 check Isomorphic 
+Check if s1 is rotated can be formed s2 
